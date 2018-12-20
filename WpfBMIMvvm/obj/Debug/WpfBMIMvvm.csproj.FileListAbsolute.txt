@@ -1,0 +1,16 @@
+D:\JohnsonDemo\WpfBMIMvvm\WpfBMIMvvm\bin\Debug\WpfBMIMvvm.exe.config
+D:\JohnsonDemo\WpfBMIMvvm\WpfBMIMvvm\bin\Debug\WpfBMIMvvm.exe
+D:\JohnsonDemo\WpfBMIMvvm\WpfBMIMvvm\bin\Debug\WpfBMIMvvm.pdb
+D:\JohnsonDemo\WpfBMIMvvm\WpfBMIMvvm\bin\Debug\PropertyChanged.dll
+D:\JohnsonDemo\WpfBMIMvvm\WpfBMIMvvm\bin\Debug\PropertyChanged.xml
+D:\JohnsonDemo\WpfBMIMvvm\WpfBMIMvvm\obj\Debug\WpfBMIMvvm.csprojResolveAssemblyReference.cache
+D:\JohnsonDemo\WpfBMIMvvm\WpfBMIMvvm\obj\Debug\MainWindow.g.cs
+D:\JohnsonDemo\WpfBMIMvvm\WpfBMIMvvm\obj\Debug\App.g.cs
+D:\JohnsonDemo\WpfBMIMvvm\WpfBMIMvvm\obj\Debug\WpfBMIMvvm_MarkupCompile.cache
+D:\JohnsonDemo\WpfBMIMvvm\WpfBMIMvvm\obj\Debug\WpfBMIMvvm_MarkupCompile.lref
+D:\JohnsonDemo\WpfBMIMvvm\WpfBMIMvvm\obj\Debug\MainWindow.baml
+D:\JohnsonDemo\WpfBMIMvvm\WpfBMIMvvm\obj\Debug\WpfBMIMvvm.g.resources
+D:\JohnsonDemo\WpfBMIMvvm\WpfBMIMvvm\obj\Debug\WpfBMIMvvm.Properties.Resources.resources
+D:\JohnsonDemo\WpfBMIMvvm\WpfBMIMvvm\obj\Debug\WpfBMIMvvm.csproj.GenerateResource.Cache
+D:\JohnsonDemo\WpfBMIMvvm\WpfBMIMvvm\obj\Debug\WpfBMIMvvm.exe
+D:\JohnsonDemo\WpfBMIMvvm\WpfBMIMvvm\obj\Debug\WpfBMIMvvm.pdb
